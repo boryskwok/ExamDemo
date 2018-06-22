@@ -1,5 +1,7 @@
-package com.migu.sort;
+package example;
 import static org.junit.Assert.*;
+
+import example.Sort;
 import org.junit.Test;
 
 /**

@@ -1,4 +1,4 @@
-package com.migu.sort;
+package example;
 
 import java.util.ArrayList;
 import java.util.Collections;
