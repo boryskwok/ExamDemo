@@ -9,7 +9,7 @@ import org.junit.Test;
  */
 public class SortTest {
     @Test
-    public void TestSort() throws Exception{
+    public void testSort() throws Exception{
         Sort sort=new Sort();
 
         int[] arr={5,66,3,1};
