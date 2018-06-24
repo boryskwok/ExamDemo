@@ -5,7 +5,7 @@ import example.Sort;
 import org.junit.Test;
 
 /**
- * Created by BorysKwok on 2018/6/21.
+ * Created by BorysKwok on 2018/6/21. .
  */
 public class SortTest {
     @Test
